@@ -77,6 +77,6 @@ with col2:
         # Génération de la visualisation
         fig = lattice.visualizeLattice3D_interactive("Type", deformedForm=True, plotCellIndex=False)
 
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True)#Plot
     else:
         st.write("Veuillez cliquer sur le bouton pour générer la lattice.")
