@@ -1,3 +1,6 @@
 [submodule "Lattice"]
 	path = Lattice
 	url = https://github.com/Tcadart/Lattice.git
+[submodule "FenicsXLatticeSimulation"]
+	path = FenicsXLatticeSimulation
+	url = https://github.com/Tcadart/FenicsXLatticeSimulation.git
